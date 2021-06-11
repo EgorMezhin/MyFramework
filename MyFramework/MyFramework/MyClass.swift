@@ -8,9 +8,11 @@
 
 public class MyClass {
     
-    static public let name = "Egor"
+    public init() {}
     
-    static public func sayHello() {
+    public let name = "Egor"
+    
+    public func sayHello() {
         print("Hello!")
     }
 }
