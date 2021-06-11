@@ -8,6 +8,8 @@
 
 public class MyClass {
     
+    public init() { }
+    
     public let name = "Egor"
     
     public func sayHello() {
