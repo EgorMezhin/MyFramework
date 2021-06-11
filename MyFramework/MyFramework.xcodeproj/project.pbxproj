@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		D016F4E6267355F0002CE551 /* MyFramework.h in Headers */ = {isa = PBXBuildFile; fileRef = D016F4E4267355F0002CE551 /* MyFramework.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D016F4EE267355FE002CE551 /* MyClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = D016F4ED267355FE002CE551 /* MyClass.swift */; };
+		D016F52326735CAD002CE551 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D016F4E5267355F0002CE551 /* Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -124,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D016F52326735CAD002CE551 /* Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
